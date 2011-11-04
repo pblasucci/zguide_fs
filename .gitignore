@@ -1,0 +1,6 @@
+[bB]in/
+[oO]bj/
+_Resharper.*/
+*.ReSharper.*
+*.suo
+*.docstates.*
