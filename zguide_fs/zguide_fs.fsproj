@@ -76,6 +76,46 @@
     <None Include="..\..\zguide\examples\F#\wuproxy.fsx">
       <Link>wuproxy.fsx</Link>
     </None>
+    <None Include="..\..\zguide\examples\F#\rrclient.fsx">
+      <Link>rrclient.fsx</Link>
+    </None>
+    <None Include="..\..\zguide\examples\F#\rrserver.fsx">
+      <Link>rrserver.fsx</Link>
+    </None>
+    <None Include="..\..\zguide\examples\F#\rrbroker.fsx">
+      <Link>rrbroker.fsx</Link>
+    </None>
+    <None Include="..\..\zguide\examples\F#\msgqueue.fsx">
+      <Link>msgqueue.fsx</Link>
+    </None>
+    <None Include="..\..\zguide\examples\F#\mtserver.fsx">
+      <Link>mtserver.fsx</Link>
+    </None>
+    <None Include="..\..\zguide\examples\F#\mtrelay.fsx">
+      <Link>mtrelay.fsx</Link>
+    </None>
+    <None Include="..\..\zguide\examples\F#\syncpub.fsx">
+      <Link>syncpub.fsx</Link>
+    </None>
+    <None Include="..\..\zguide\examples\F#\syncsub.fsx">
+      <Link>syncsub.fsx</Link>
+    </None>
+    <None Include="..\..\zguide\examples\F#\psenvpub.fsx">
+      <Link>psenvpub.fsx</Link>
+    </None>
+    <None Include="..\..\zguide\examples\F#\psenvsub.fsx">
+      <Link>psenvsub.fsx</Link>
+    </None>
+    <None Include="..\..\zguide\examples\F#\durapub.fsx">
+      <Link>durapub.fsx</Link>
+    </None>
+    <None Include="..\..\zguide\examples\F#\durasub.fsx">
+      <Link>durasub.fsx</Link>
+    </None>
+    <None Include="..\..\zguide\examples\F#\durapub2.fsx">
+      <Link>durapub2.fsx</Link>
+    </None>
+    <None Include="Scratch.fsx" />
     <Content Include="Notes.txt" />
   </ItemGroup>
   <ItemGroup>
