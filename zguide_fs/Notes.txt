@@ -1,2 +1,2 @@
 ﻿[ Next up... ]
-http://zguide.zeromq.org/page:all#Chapter-Three-Advanced-Request-Reply-Patterns
+http://zguide.zeromq.org/page:all#Least-Recently-Used-Routing-LRU-Pattern

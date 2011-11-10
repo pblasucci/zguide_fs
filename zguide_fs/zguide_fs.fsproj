@@ -115,8 +115,14 @@
     <None Include="..\..\zguide\examples\F#\durapub2.fsx">
       <Link>durapub2.fsx</Link>
     </None>
+    <None Include="..\..\zguide\examples\F#\identity.fsx">
+      <Link>identity.fsx</Link>
+    </None>
+    <None Include="..\..\zguide\examples\F#\rtdealer.fsx">
+      <Link>rtdealer.fsx</Link>
+    </None>
     <None Include="Scratch.fsx" />
-    <Content Include="Notes.txt" />
+    <None Include="Notes.txt" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="fszmq">
