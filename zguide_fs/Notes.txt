@@ -1,2 +1,2 @@
 ﻿[ Next up... ]
-http://zguide.zeromq.org/page:all#Least-Recently-Used-Routing-LRU-Pattern
+http://zguide.zeromq.org/page:all#A-Request-Reply-Message-Broker

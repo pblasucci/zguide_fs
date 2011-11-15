@@ -121,6 +121,15 @@
     <None Include="..\..\zguide\examples\F#\rtdealer.fsx">
       <Link>rtdealer.fsx</Link>
     </None>
+    <None Include="..\..\zguide\examples\F#\rtmama.fsx">
+      <Link>rtmama.fsx</Link>
+    </None>
+    <None Include="..\..\zguide\examples\F#\rtpapa.fsx">
+      <Link>rtpapa.fsx</Link>
+    </None>
+    <None Include="..\..\zguide\examples\F#\lruqueue.fsx">
+      <Link>lruqueue.fsx</Link>
+    </None>
     <None Include="Scratch.fsx" />
     <None Include="Notes.txt" />
   </ItemGroup>
