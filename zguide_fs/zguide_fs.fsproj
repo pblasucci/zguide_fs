@@ -130,6 +130,9 @@
     <None Include="..\..\zguide\examples\F#\lruqueue.fsx">
       <Link>lruqueue.fsx</Link>
     </None>
+    <None Include="..\..\zguide\examples\F#\asyncsrv.fsx">
+      <Link>asyncsrv.fsx</Link>
+    </None>
     <None Include="Scratch.fsx" />
     <None Include="Notes.txt" />
   </ItemGroup>
