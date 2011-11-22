@@ -1,3 +1,2 @@
 ﻿[ Next up... ]
-http://zguide.zeromq.org/page:all#Worked-Example-Inter-Broker-Routin
-g
+http://zguide.zeromq.org/page:all#Worked-Example-Inter-Broker-Routing
