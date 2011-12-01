@@ -21,6 +21,8 @@
     <DefineConstants>DEBUG;TRACE</DefineConstants>
     <WarningLevel>3</WarningLevel>
     <DocumentationFile>bin\Debug\zguide_fs.XML</DocumentationFile>
+    <StartArguments>
+    </StartArguments>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <DebugType>pdbonly</DebugType>
@@ -133,12 +135,24 @@
     <None Include="..\..\zguide\examples\F#\asyncsrv.fsx">
       <Link>asyncsrv.fsx</Link>
     </None>
+    <None Include="..\..\zguide\examples\F#\peering1.fsx">
+      <Link>peering1.fsx</Link>
+    </None>
+    <None Include="..\..\zguide\examples\F#\peering2.fsx">
+      <Link>peering2.fsx</Link>
+    </None>
+    <None Include="..\..\zguide\examples\F#\peering3.fsx">
+      <Link>peering3.fsx</Link>
+    </None>
     <None Include="Scratch.fsx" />
     <None Include="Notes.txt" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="fszmq">
       <HintPath>..\libs\fszmq\fszmq.dll</HintPath>
+    </Reference>
+    <Reference Include="fszmq.devices">
+      <HintPath>..\libs\fszmq\fszmq.devices.dll</HintPath>
     </Reference>
     <Reference Include="mscorlib" />
     <Reference Include="FSharp.Core" />
