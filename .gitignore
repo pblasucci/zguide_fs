@@ -4,3 +4,5 @@ _Resharper.*/
 *.ReSharper.*
 *.suo
 *.docstates.*
+
+.DS_Store
