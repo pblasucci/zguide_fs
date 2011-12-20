@@ -1,2 +1,2 @@
 ﻿[ Next up... ]
-http://zguide.zeromq.org/page:all#Chapter-Four-Reliable-Request-Reply
+http://zguide.zeromq.org/page:all#Basic-Reliable-Queuing-Simple-Pirate-Pattern

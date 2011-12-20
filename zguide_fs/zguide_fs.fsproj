@@ -144,6 +144,12 @@
     <None Include="..\..\zguide\examples\F#\peering3.fsx">
       <Link>peering3.fsx</Link>
     </None>
+    <None Include="..\..\zguide\examples\F#\lpclient.fsx">
+      <Link>lpclient.fsx</Link>
+    </None>
+    <None Include="..\..\zguide\examples\F#\lpserver.fsx">
+      <Link>lpserver.fsx</Link>
+    </None>
     <None Include="Scratch.fsx" />
     <None Include="Notes.txt" />
   </ItemGroup>
