@@ -150,6 +150,18 @@
     <None Include="..\..\zguide\examples\F#\lpserver.fsx">
       <Link>lpserver.fsx</Link>
     </None>
+    <None Include="..\..\zguide\examples\F#\spqueue.fsx">
+      <Link>spqueue.fsx</Link>
+    </None>
+    <None Include="..\..\zguide\examples\F#\spworker.fsx">
+      <Link>spworker.fsx</Link>
+    </None>
+    <None Include="..\..\zguide\examples\F#\ppqueue.fsx">
+      <Link>ppqueue.fsx</Link>
+    </None>
+    <None Include="..\..\zguide\examples\F#\ppworker.fsx">
+      <Link>ppworker.fsx</Link>
+    </None>
     <None Include="Scratch.fsx" />
     <None Include="Notes.txt" />
   </ItemGroup>
